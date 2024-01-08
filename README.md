@@ -10,6 +10,6 @@ After training the models on the data above, I will **fine-tune** them on the co
 
 The figure below (taken from the original paper and modified by me), explains better the procedure of the project:
 
-![Section 1](https://github.com/fr3nz99/Ratatouille-Model-Merging/assets/91369910/e1818a3a-d4d7-4cc2-a012-1cf7405e1654)
+![image](https://github.com/fr3nz99/Ratatouille-Model-Merging/assets/91369910/7c957296-f9e4-4dd8-93d6-d55c021c61bc)
 
 The project has been done for the course "Neural Networks for Data Science and Applications" a/y 2023/2024
